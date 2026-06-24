@@ -1,0 +1,4 @@
+pandas>=2.0
+plotly>=5.18
+jupyter>=1.0
+notebook>=7.0

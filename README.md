@@ -1,6 +1,10 @@
 # Healthcare Operations Analysis
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/grazinga-grazille/healthcare-analytics/main?filepath=healthcare_analysis_demo.ipynb)
+
 **Does who runs your hospital affect how well it performs?**
+
+Launch the interactive notebook on [Binder](https://mybinder.org/v2/gh/grazinga-grazille/healthcare-analytics/main?filepath=healthcare_analysis_demo.ipynb) to explore Plotly charts in the browser (no local setup required).
 
 An exploratory data analysis of U.S. hospital quality using CMS Care Compare data. This project investigates whether structural factors—ownership type, hospital classification, and geography—are associated with measurable differences in care quality across mortality, safety, and readmission domains.
 
